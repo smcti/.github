@@ -22,9 +22,6 @@ Conheça algumas das ferramentas desenvolvidas pela SMCTI recentemente:
 
 ## TEAM
 
-### Head
-- [@lipecattani](https://www.github.com/lipecattani)
-
 ### Dev's
 - [@Nakagawadesu](https://github.com/Nakagawadesu)
 - [@Alonso369](https://github.com/alonso369)
@@ -33,6 +30,7 @@ Conheça algumas das ferramentas desenvolvidas pela SMCTI recentemente:
 - [@joaohdsp](https://github.com/joaohdsp)
 
 ### Ex-Teams
+- [@lipecattani](https://www.github.com/lipecattani)
 - [@satilpereira](https://github.com/satilpereira)
 - [@luizkramer](https://github.com/LuizKramer)
 
