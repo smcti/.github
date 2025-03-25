@@ -22,17 +22,23 @@ Conheça algumas das ferramentas desenvolvidas pela SMCTI recentemente:
 
 ## TEAM
 
+### Adm
+- [@aapuska](https://github.com/aapuska)
+
 ### Dev's
-- [@Nakagawadesu](https://github.com/Nakagawadesu)
-- [@Alonso369](https://github.com/alonso369)
-- [@edmenin](https://github.com/edmenin)
+- [@Ana-Mk](https://github.com/ana-mk)
+- [@dgfelix](https://github.com/dgfelix)
 - [@Rafaelpla](https://github.com/rafaelpla)
-- [@joaohdsp](https://github.com/joaohdsp)
+
 
 ### Ex-Teams
 - [@lipecattani](https://www.github.com/lipecattani)
 - [@satilpereira](https://github.com/satilpereira)
 - [@luizkramer](https://github.com/LuizKramer)
+- [@Nakagawadesu](https://github.com/Nakagawadesu)
+- [@Alonso369](https://github.com/alonso369)
+- [@edmenin](https://github.com/edmenin)
+- [@joaohdsp](https://github.com/joaohdsp)
 
 
 
